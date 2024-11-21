@@ -1,8 +1,8 @@
 #include <iostream>
-#include "/Users/nataliemohun/open_gl/lib/lib/SDL2/SDL2/SDL.h"
-#include "/Users/nataliemohun/open_gl/lib/lib/GL/GL/glew.h"
+#include "/Volumes/ExternalStorage/openGL/gitHUB/openGL/open_gl/lib/lib/SDL2/SDL2/SDL.h"
+#include "/Volumes/ExternalStorage/openGL/gitHUB/openGL/open_gl/lib/lib/GL/GL/glew.h"
 
-#include </Users/nataliemohun/open_gl/lib/common/shader.hpp>
+#include "/Volumes/ExternalStorage/openGL/gitHUB/openGL/open_gl/lib/common/shader.hpp"
 
 #include "/opt/homebrew/Cellar/glfw/3.4/include/GLFW/glfw3.h"
 
